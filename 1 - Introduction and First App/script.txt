@@ -1,0 +1,11 @@
+All right, you mobile application developers. Welcome back.
+In this video series, we will be learning how to build beautiful mobile apps using Kivy Material Design, also known as KivyMD in short. KivyMD is a python package that has been created using our classic Kivy.
+
+Mobile applications created using KivyMD somewhat look like this. By the end of this video series, You will be able to create such apps on your own. As you can see they have beautiful elements,nice to look at color themes and amazing navigation utilities. To be honest if you want to create mobile applications using Python, KivyMD is the way to go.
+
+One of the reasons apps created using KivyMD look so good is that they follow the material design principles. So what exactly is material design? 
+- Material design is a set of rules in design that google itself has laid down. It includes what kind of colors you are supposed to use, what your elements like buttons are supposed to look like, how you user interface should interact with the user and much more.
+
+If you want to know more about it you can go to material.io/design, And actually I would highly recommend going through this a lil bit. Because as developers we often neglect the design part. But in my experience it's often helpful if a developer knows, what goes on behind the scenes in designing especially if you are creating your own project.
+
+And before we get started with coding. We need to set-up some things.
