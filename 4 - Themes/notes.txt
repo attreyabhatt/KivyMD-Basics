@@ -1,6 +1,0 @@
-1) What is a theme?
-2) primary_palette on buttons
-
-3) Color Options in primary_palette - Available options are: ‘Red’, ‘Pink’, ‘Purple’, ‘DeepPurple’, ‘Indigo’, ‘Blue’, ‘LightBlue’, ‘Cyan’, ‘Teal’, ‘Green’, ‘LightGreen’, ‘Lime’, ‘Yellow’, ‘Amber’, ‘Orange’, ‘DeepOrange’, ‘Brown’, ‘Gray’, ‘BlueGray’.
-
-4) theme_style - Dark or Light two options
