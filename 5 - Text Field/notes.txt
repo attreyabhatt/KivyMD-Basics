@@ -1,0 +1,16 @@
+1) Creating MDTextField with Code
+2) Lots of functionality not available with adding MDTextField through code
+3) Instead Kivy wants to us to create a string and functionality through it.
+
+This process has 3 steps - 
+
+1) Create the Helper file
+2) Create the elements through that file
+3) Use the builder to build that multi-line string and add to screen
+
+Feauters of MDTextField
+1) Hint text
+2) Helper text + helper_text_mode ( 2 Modes - on_focus and persistent ) 
+3) Changing color of text field - through themes
+4) Adding icon on right and changing it's color
+5) Binding the button and userinput
