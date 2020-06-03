@@ -1,0 +1,4 @@
+1) Create a simple dialog box that opens when a button is clicked
+2) Creating buttons
+3) Close that dialog box when button is clicked - self.dialog.dismiss()
+4) Check if username is empty or not
