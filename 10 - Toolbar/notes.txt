@@ -1,0 +1,19 @@
+Flow of Toolbar
+
+Screen -> Boxlayout (orientatation:vertical) -> MDToolbar 
+
+Notes
+1) Create a simple toolbar with a Label
+2) left_action_items - Adding icon on left
+- Explain lambda
+- Call the navigation draw function in app.callback
+3) right_action_items
+4) Elevation
+5) Change theme from blue to red
+
+Bottom Toolbar
+1) MDBottomAppBar
+2) type:bottom
+3) Change position of button - mode (end and free-end)
+4) on_action_button
+
